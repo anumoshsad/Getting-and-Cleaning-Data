@@ -1,5 +1,5 @@
 ## Getting-and-Cleaning-Data
-Course project of making a tidy dataset.
+Course project of making a tidy dataset. Explanation of run_analysis.R is as follows.
 
 Keep the names of features in a vector feats.
 
