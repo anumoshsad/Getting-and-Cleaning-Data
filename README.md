@@ -15,4 +15,6 @@ From 'total', make the data frame 'MS' with mean and std only.
 
 Name the activities properly. 
 
-Use aggregate function to take the averages of each features for each activity and eact subjects.
+Use aggregate function to take the averages of each features for each activity and each subjects and put it in 'ANSWER'.
+
+write the data frame 'ANSWER' in a text file "ANSWER.TXT"
